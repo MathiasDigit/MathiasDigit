@@ -1,79 +1,80 @@
-<h1 align="center">Salut 👋, je suis Mathias</h1>
+<h1 align="center">Hi 👋, I'm Mathias</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&lines=%20Developpeur+Backend+chez+ALX+ProDev;Passionne+par+le+Web,+les+Serveurs+et+les+Systemes;Toujours+en+quete+d'apprentissage+et+d'innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&lines=%20Backend+Developer+at+ALX+ProDev;Passionate+about+Web,+Servers+and+Systems;Always+seeking+to+learn+and+innovate" />
 </p>
 
 ---
 
-<h2>🧠 À propos de moi</h2>
+<h2>🧠 About Me</h2>
 
 <p>
-Je suis apprenant du programme <strong>ALX ProDev Backend</strong>, avec une passion affirmée pour le <strong>développement web back-end</strong>.  
-Je m’intéresse tout particulièrement à l’<strong>architecture des serveurs</strong>, à la <strong>gestion des bases de données</strong> ainsi qu’au <strong>fonctionnement des réseaux</strong>.  
-Ces domaines me motivent à créer des solutions efficaces, bien structurées et pensées pour la performance.
+I’m a learner in the <strong>ALX ProDev Backend</strong> program, with a strong passion for <strong>back-end web development</strong>.  
+I'm particularly interested in <strong>server architecture</strong>, <strong>database management</strong>, and <strong>network systems</strong>.  
+These technical areas drive me to build efficient, well-structured, and performance-oriented solutions.
 </p>
 
 <p>
-🎯 Mon objectif est de construire des <strong>systèmes robustes, évolutifs et puissants</strong> qui répondent à des besoins réels et concrets.  
-Je vise l’excellence technique, la maintenabilité du code, et l’impact positif à travers des projets bien conçus.
+🎯 My goal is to build <strong>robust, scalable, and powerful systems</strong> that address real-world challenges.  
+I aim for technical excellence, clean and maintainable code, and meaningful impact through well-crafted projects.
 </p>
 
 ---
 
-<h2>💡 Types de projets que j’aimerais réaliser</h2>
+<h2>💡 Projects I Want to Work On</h2>
 
 <ul>
-  <li>✔️ Développement d’API REST sécurisées et performantes</li>
-  <li>✔️ Systèmes de gestion de bases de données pour plateformes à fort trafic</li>
-  <li>✔️ Plateformes back-end évolutives pour applications web</li>
-  <li>✔️ Intégration de pipelines CI/CD pour des déploiements fluides</li>
-  <li>✔️ Outils backend facilitant l’administration système</li>
-  <li>✔️ Contribution à des projets open-source orientés back-end</li>
+  <li>✔️ Development of secure and high-performance REST APIs</li>
+  <li>✔️ Database management systems for high-traffic platforms</li>
+  <li>✔️ Scalable backend platforms for web applications</li>
+  <li>✔️ CI/CD pipeline integration for smooth deployments</li>
+  <li>✔️ Backend tools to support system administration</li>
+  <li>✔️ Contributions to open-source backend or DevOps projects</li>
 </ul>
 
 ---
 
-<h2>🛠️ Compétences Techniques</h2>
+<h2>🛠️ Technical Skills</h2>
 
 <p>
-  <strong>Langages :</strong> Python, JavaScript, HTML, CSS, SQL<br>
-  <strong>Frameworks / Outils :</strong> Django, Django Rest Framework (DRF), PostgreSQL, Git<br>
-  <strong>DevOps :</strong> Linux, CI/CD<br>
+  <strong>Languages:</strong> Python, JavaScript, HTML, CSS, SQL<br>
+  <strong>Frameworks / Tools:</strong> Django, Django Rest Framework (DRF), PostgreSQL, Git<br>
+  <strong>DevOps:</strong> Linux, CI/CD<br>
 </p>
 
 ---
-<h2>📌 Projets en vedette</h2>
+
+<h2>📌 Featured Projects</h2>
 
 <ul>
   <li>
     <strong>🔗 <a href="#">Airbnb Clone (Back-end)</a></strong><br>
-    Une plateforme de réservation inspirée d’Airbnb, développée en utilisant :
+    A booking platform inspired by Airbnb, developed using:
     <ul>
       <li><strong>Django Rest Framework (DRF)</strong></li>
       <li><strong>PostgreSQL</strong></li>
       <li><strong>Python</strong></li>
     </ul>
-    Ce projet gère l’authentification des utilisateurs, les hébergements, les réservations et les paiements côté serveur.
+    This project handles user authentication, accommodations, reservations, and payment management on the server side.
   </li>
   <br>
   <li>
-    <strong>🔗 <a href="#">E-commerce Alimentaire (Back-end)</a></strong><br>
-    Application de vente en ligne de produits alimentaires, construite avec :
+    <strong>🔗 <a href="#">Food E-commerce Platform (Back-end)</a></strong><br>
+    An online platform for selling food products, built using:
     <ul>
       <li><strong>Django Rest Framework (DRF)</strong></li>
       <li><strong>PostgreSQL</strong></li>
       <li><strong>Python</strong></li>
     </ul>
-    Dans ce projet, je me suis concentré sur la gestion des produits (CRUD), ainsi que la gestion des utilisateurs (inscription, connexion, etc.).
+    In this project, I focused on product management (CRUD operations) and user management (registration, login, etc.).
   </li>
 </ul>
 
-<p><strong>🧰 Technologies utilisées :</strong> Django REST Framework, PostgreSQL, Python, Git</p>
+<p><strong>🧰 Technologies Used:</strong> Django REST Framework, PostgreSQL, Python, Git</p>
 
 ---
 
-<h2>📫 Me contacter</h2>
+<h2>📫 Contact Me</h2>
 
 <p>
   <a href="mailto:bellmathias33@gmail.com">📧 Email</a> |
@@ -84,5 +85,5 @@ Je vise l’excellence technique, la maintenabilité du code, et l’impact posi
 ---
 
 <p align="center">
-  Merci d’avoir visité mon profil ! N’hésite pas à explorer mes projets ou à me contacter pour collaborer.
+  Thanks for visiting my profile! Feel free to check out my projects or reach out to collaborate.
 </p>
